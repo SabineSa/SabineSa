@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to work with Raspberry Pi
 - 📫 How to reach me: sas040@ucsd.edu
 - 😄 Pronouns: they/any
+- 👨🏻‍🎨Pfp credit: Tokyo Ghoul: re Volume 3 cover by Sui Ishida
